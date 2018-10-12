@@ -3,6 +3,7 @@
 ### Hough Transform demo
 ##  Press 'q' to quit the program (has instances where it may just hang, try and use the task manager in those cases)
 ### Please uncomment line 12 in case the program hangs for you
+#### This has not been tested on a variety of images, so change parameter ranges in the sliders on lines 53-58 for large images
 ######
 
 import cv2
